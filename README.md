@@ -23,7 +23,7 @@ Signup for an account [here](https://xpresspayonline.com/)
 *  Click on the "Upload" option, then click "Choose File" to select the zip file you downloaded. Click "OK" and "Install Now" to complete the installation.
 *  Activate the plugin.
 
-### Configure
+### Configure Plugin
 
 *	Click on installed plugins.
 *	Look for Xpresspay WooCommerce Payment Gateway from the list of plugins.
