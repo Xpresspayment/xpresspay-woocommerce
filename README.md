@@ -5,7 +5,7 @@ Xpresspay payment gateway for Wordpress Woocommerce
  - **Tags:** Xpresspay, woocommerce, payment, payment gateway, Buy products, Pay for products, Payment platform, Ecommerce platform, Ecommerce, bank account, credit card, debit card, nigeria, international, mastercard, visa, verve 
  - **Requires at least:** 4.4
  - **Tested up to:** 5.2.1
- - **Stable tag:** 2.2.1
+ - **Stable tag:** 1.0.0
  - **License:** MIT - see below
 
 ## Description
