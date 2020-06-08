@@ -3,7 +3,7 @@ Xpresspay payment gateway for Wordpress Woocommerce
 
  - **Contributors:** Xpresspayment Developers
  - **Tags:** Xpresspay, woocommerce, payment, payment gateway, Buy products, Pay for products, Payment platform, Ecommerce platform, Ecommerce, bank account, credit card, debit card, nigeria, international, mastercard, visa, verve 
- - **Requires at least:** 4.4
+ - **Requires at least:** 4.9
  - **Tested up to:** 5.2.1
  - **Stable tag:** 1.0.0
  - **License:** MIT - see below
@@ -23,7 +23,7 @@ Signup for an account [here](https://xpresspayonline.com/)
 *  Click on the "Upload" option, then click "Choose File" to select the zip file you downloaded. Click "OK" and "Install Now" to complete the installation.
 *  Activate the plugin.
 
-### To setup the parameters
+### Configure
 
 *	Click on installed plugins.
 *	Look for Xpresspay WooCommerce Payment Gateway from the list of plugins.
